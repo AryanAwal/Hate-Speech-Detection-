@@ -13,7 +13,7 @@ Table of Contents
 
 Installation
 Clone the repository:
-git clone
+git clone https://github.com/AryanAwal/Hate-Speech-Detection-
 
 Dataset
 The dataset used in this project is twitter_data.csv, which includes the following columns:
